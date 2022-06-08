@@ -1,9 +1,9 @@
 ---
-title: 'Inline and Static Functions in C++'
-date: 2021-10-09
-permalink:
-tags:
-  - C++
+  author: xiao.liang
+  title : 'Inline and Static Functions in C++'
+  date  : 2021-10-09
+  tags  :
+    - C++
 ---
 
 ## inline与内敛优化
